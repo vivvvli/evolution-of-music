@@ -12,7 +12,7 @@ def readme():
 
 
 setup(
-    name='evolution-of-music',
+    name='production',
     version='0.1',
     description='Analysis of the Evolution of Music',
     long_description=readme(),
@@ -23,5 +23,5 @@ setup(
     author='Vivian Li', 
     author_email='vivian.li982@gmail.com',  
     license='MIT',
-    packages=['evolution-of-music'],
+    packages=['production'],
 )
