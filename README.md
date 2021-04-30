@@ -1,5 +1,3 @@
-# spotify-ds
-
 questions we are looking to answer:
 - how has music changed over time? 
 - what words are more prevalent in certain types of songs?
